@@ -16,7 +16,7 @@ h1{
 .items-container{
     display: flex;
     justify-content: center;
-    gap:50px; 
+    gap:125px; 
     margin-bottom: 80px;
 }
 .blue-square{
